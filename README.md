@@ -11,4 +11,4 @@ Para esse exericio utilizamos expressões para formatação de um cupom fiscal:
 
 ## Resultado:
 
-<img src="resultado.png" alt="Resultado" width="400" height="400">
+<img src="resultado.png" alt="Resultado" width="350" height="350">
