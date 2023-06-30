@@ -11,4 +11,4 @@ Para esse exericio utilizamos expressões para formatação de um cupom fiscal:
 
 ## Resultado:
 
-![resultado]
+![resultado](resultado.png)
